@@ -250,10 +250,10 @@ languageCode = 'en_US'
 #    url="/submissions"
 #    weight = 6000
 # PROGRAM
-# [[menu.main]]
-#   identifier = "program"
-#   name = "Program"
-#   weight = 7000
+[[menu.main]]
+  identifier = "program"
+  name = "Program"
+  weight = 7000
 # [[menu.main]]
 #   identifier = "overview"
 #   name = "Overview"
@@ -266,12 +266,12 @@ languageCode = 'en_US'
 #   url = "/program/schedule"
 #   parent = "program"
 #   weight = 13
-# [[menu.main]]
-#   identifier = "accepted-papers"
-#   name = "Accepted Papers"
-#   url = "/program/accepted"
-#   parent = "program"
-#   weight = "15"
+[[menu.main]]
+  identifier = "accepted-papers"
+  name = "Accepted Papers"
+  url = "/program/accepted"
+  parent = "program"
+  weight = "15"
 # [[menu.main]]
 #   identifier = "awards"
 #    name = "Awards"
