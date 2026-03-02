@@ -38,11 +38,13 @@ Both events are open to all registered student attendees of ICAPS 2026; particip
 Exact dates and times will be announced on the ICAPS 2026 website. All deadlines will use **UTC-12** as the reference timezone (a deadline has not passed as long as it is still the stated date anywhere in the world).
 Planned deadlines include:
 
-- DC Mentoring Program application deadline: March 2, 2026  
+- DC Mentoring Program application deadline: March 9, 2026  
 - DC Mentoring Program notification:  March 27, 2026
-- LaunchPad Workshop application deadline: March 2, 2026
+- LaunchPad Workshop application deadline: March 9, 2026
 - LaunchPad Workshop notification:  March 27, 2026
 - DC & LaunchPad day at ICAPS 2026: June 27, 2026
+
+Applications for the DC Mentoring Program and the LaunchPad Workshop submitted after March 9 may still be considered if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.
 
 ---
 

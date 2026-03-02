@@ -55,7 +55,7 @@ To participate in the Mentoring Program, an application is required. Applicants 
 
 ## Formatting and Submission
 
-The dissertation abstract and CV must follow the **ICAPS 2026 formatting instructions** and be prepared with the [**AAAI 2026 author kit**](https://aaai.org/authorkit26-1/). Inclusion of the AAAI reproducibility checklist is **not required**.
+The dissertation abstract must follow the **ICAPS 2026 formatting instructions** and be prepared with the [**AAAI 2026 author kit**](https://aaai.org/authorkit26-1/). Inclusion of the AAAI reproducibility checklist is **not required**.
 
 The complete application must be submitted as a single PDF file. Applications are not anonymous; please include your name and affiliation on all documents.
 
@@ -84,15 +84,18 @@ Students who require an early decision for visa purposes are encouraged to conta
 
 All deadlines will use UTC-12 as the reference timezone (i.e., the deadline has not passed as long as there is still time anywhere in the world). Exact dates will be announced on the ICAPS 2026 website.
 
-- **Application submission deadline:** March 2, 2026  
+- **Application submission deadline:** March 9, 2026  
 - **Notification date:** March 27, 2026
-- **Doctoral Consortium day at ICAPS 2026:** June 27, 2026  
+- **Doctoral Consortium day at ICAPS 2026:** June 27, 2026
+
+Applications submitted after March 9 may still be considered, if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.
 
 ---
 
 ## Student Support
 
-We are exploring ways to provide student support, partly covering travel and/or registration costs for some DC participants. If such funding becomes available, the DC organizers will reach out directly to selected students with further details.
+We are exploring ways to provide student support, partly covering travel and/or ICAPS registration costs for some DC participants. Please note that in the past ICAPS has usually given priority to participants of the DC mentorship program when allocating student support funding. If such funding becomes available, the DC organizers will reach out directly to selected students with further details.
+
 
 Students attending both the DC and other ICAPS events (e.g., tutorials, workshops, or an associated summer school) may also benefit from coordinated travel planning where funding rules allow.
 
