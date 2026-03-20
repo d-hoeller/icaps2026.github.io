@@ -15,25 +15,33 @@ This year's edition is the second edition of CASP:ER -- the first one was held a
 
 
 ## Important Dates
-This year's second edition of CASP:ER will be held on June 27th or 28th, 2026, as a workshop co-located with ICAPS 2026.
+This year's second edition of CASP:ER will be held on June 28th or 29th, 2026, as a workshop co-located with ICAPS 2026.
 Important dates
  - Paper submission:  April 27th, 2026
  - Notification:    	May 18th, 2026
  - Camera-ready:    	June 1st, 2026
- - Workshop: June 27th or 28th, 2026
+ - Workshop: June 28th or 29th, 2026
 
 ## Call for contributions
 
-To foster discussion on and the exploration of research ideas in CSP/SAT-based planning, we accept two types of contributions: previously published work as well as original research.
+We invite contributions on various topics related to CSP/SAT-based planning.
+In order to lower the barrier to participation and acknowledge the increasing pressure on researchers to submit full papers to conferences, the CASP:ER workshop adopts a lightweight submission format.
+We require submissions in the form of short or extended abstracts, intended primarily to support a presentation and discussion at the workshop rather than a full archival publication.
+Submissions will be evaluated based on their relevance, novelty, and potential to stimulate discussion, rather than through a full peer-review process.
+We believe this format will encourage timely and exploratory contributions and foster a more open and interactive workshop environment.
 
-1. Abstracts for Presentations. The abstract (1 page, including references) reports on previously published work. The abstract should briefly summarise that work. The submission must include a link to the original publication.
-2. Extended abstracts  (5 pages + references) containing original work on CSP- or SAT-based Planning.
+Topics of interest include, but are not limited to:
 
-Extended abstracts can present recent results, new research directions, challenges and perspectives.
+1. Advances in constraint programming and sat solving for planning problems.
+2. Hybrid approaches of csp/sat with heuristic search or reinforcement learning.
+3. Scalability improvements in constraint-based planning methods.
+4. Applications of csp/sat-based planning in real-world scenarios.
+5. Comparisons between csp/sat-based planning and alternative paradigms.
+6. Explainability and interpretability in constraint-based planning solutions.
+7. Benchmarks, datasets, and evaluation methodologies for csp/sat-based planning.
+8. Learning techniques aiding and helping csp/sat-based planning approaches.
 
-We plan to include all papers in the Proceedings of the event, published at CEUR Workshop Proceedings. CEUR WS proceedings are archival proceedings indexed by DBLP and Scopus.
- 
-Submitted papers should use the [CASP:ER-specific version of the CEURART LaTeX style](https://icaps25.icaps-conference.org/files/ceur-casper.zip). Authors of accepted papers will have the possibility to extend their submissions for the final camera-ready version to eight (8) pages plus references.
+Submitted papers should use the [AAAI Author Kit](https://aaai.org/authorkit26-1/). Short abstracts should not be longer than 1 page (plus references). Extended abstracts should not be longer than 4 pages (plus references). Submissions must be anonymous.
 
 Submissions must be in PDF format and will be handled via the [EasyChair Conference system](https://easychair.org/my/conference?conf=casper2026).
 
