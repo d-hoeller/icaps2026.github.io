@@ -24,8 +24,7 @@ Here is the list of the worskhops accepted to ICAPS 2026
 
   <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!--<p><a href="/program/workshops/casp_er">CASP:ER</a></p>-->
-		<p><strong>CASP:ER</strong></p>
+ 		<p><a href="/program/workshops/casp_er">CASP:ER</a></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Constraint And Satisfiability-based Planning</strong></p>
@@ -114,8 +113,8 @@ Here is the list of the worskhops accepted to ICAPS 2026
 
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!--<p><a href="/program/workshops/planrob">PlanRob</a></p>-->
-		<p><strong>PlanRob</strong></p>
+ 		<p><a href="/program/workshops/planrob">PlanRob</a></p>
+		<!--<p><strong>PlanRob</strong></p>-->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Planning and Robotics</strong></p>
@@ -166,8 +165,8 @@ Here is the list of the worskhops accepted to ICAPS 2026
 
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!-- <p><a href="/program/workshops/rpg">RPG</a></p> -->
-		<p><strong>RPG</strong></p>
+ 		<p><a href="/program/workshops/rpg">RPG</a></p>
+		<!--<p><strong>RPG</strong></p>-->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Roles of Planning in Games</strong></p>
