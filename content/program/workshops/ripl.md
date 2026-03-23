@@ -4,7 +4,7 @@ date: 2025-04-13T00:00:00+00:00
 draft: false
 ---
 
-# ICAPS 2026 Workshop on Reliability In Planning and Learning (RIPL; joint with HSRL)
+# Workshop on Reliability In Planning and Learning (RIPL; joint with HSRL)
  
 ## Aim and Scope of the Workshop
 
