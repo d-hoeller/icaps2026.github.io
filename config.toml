@@ -309,12 +309,12 @@ languageCode = 'en_US'
     url = "/program/workshops-overview"
     weight = 40
 ######################### TUTORIALS
-# [[menu.main]]
-#    identifier = "tutorials"
-#    parent = "program"
-#    name = "Tutorials"
-#    url = "/program/tutorial_overview"
-#    weight = "50"
+[[menu.main]]
+   identifier = "tutorials"
+   parent = "program"
+   name = "Tutorials"
+   url = "/program/tutorials-overview"
+   weight = "50"
 # [[menu.main]]
 #    identifier = "plan_sat"
 #    name = "Planning as SAT"
