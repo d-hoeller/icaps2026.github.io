@@ -338,8 +338,8 @@ draft: false
 <div class="session-block">
 
 <div class="paper-item">
-<strong>GammaZero: Learning to Guide Belief-Space Search for Long-Horizon POMDPs with Generalizable Graph Representations</strong><br/>
-<em>Rajesh Mangannavar and Prasad Tadepalli</em>
+<strong>Complete and Optimal Robust Planning against Nature</strong><br/>
+<em>Lukas Chrpa and Erez Karpas</em>
 </div>
 
 <div class="paper-item">
@@ -759,8 +759,8 @@ draft: false
 </div>
 
 <div class="paper-item">
-<strong>Complete and Optimal Robust Planning against Nature</strong><br/>
-<em>Lukas Chrpa and Erez Karpas</em>
+<strong>GammaZero: Learning to Guide Belief-Space Search for Long-Horizon POMDPs with Generalizable Graph Representations</strong><br/>
+<em>Rajesh Mangannavar and Prasad Tadepalli</em>
 </div>
 
 </div>
