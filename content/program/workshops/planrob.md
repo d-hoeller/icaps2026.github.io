@@ -57,6 +57,15 @@ Important goals of the workshop are the discussion of solutions, results, open i
 
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, ...). 
 
+## Invited Talk by [STEVE CHIEN](https://ai.jpl.nasa.gov/public/people/chien/)
+<img src="https://ai.jpl.nasa.gov/public/people/chien/images/chien.jpg" alt="Alt Text" width="300">
+
+*Title*: Trusted AI on Mars
+
+*Abstract*: In October 2023, the Onboard Planner (OBP) took control of the Perseverance rover on Mars, over 200 million miles from Earth. As of December 2025, OBP has operated for over 400 tactical plans covering over 700 Martian days (sols) and has: executed over 12000 activities requested by scientists and engineers, driven over 20 kilometers, acquired over 100,000 images, and collected more than 10 rock core samples. In contrast to the traditional form of operations, where operators provide a rigid set of instructions for the rover, with OBP Perseverance revises its schedule an average of 16 times each day to stay responsive in a dynamic Martian environment where things don’t always go as expected. This flexibility allows the mission to manage resources such as energy more efficiently and therefore accomplish more science. In this talk, we discuss the approach to ensuring that a search-based AI system, specifically the Onboard Planner, would (1) achieve mission objectives; and critically (2) protect the rover, a multi-billion dollar one of a kind asset. We describe the “whole lifecycle” approach to developing trusted autonomy software for M2020, spanning: conception, design, analysis, prototyping, and testing. We then describe the incremental rollout and training to smooth the transition to operations with increased onboard autonomy. Next we discuss how the OBP software has improved mission return in quantity and quality in several ways. Finally we describe the even greater challenges of autonomy in future missions to hunt for life beyond Earth.
+
+*Bio-sketch*: Steve Chien is a Technical Fellow in Artificial Intelligence and Co-head of the [Artificial Intelligence Group](https://ai.jpl.nasa.gov/) at the Jet Propulsion Laboratory, California Institute of Technology. He has spent decades deploying AI/Autonomy to numerous space missions including: Earth Observing One, Sensorweb, ESA’s Rosetta Orbiter, and M2020. He has been awarded five NASA Medals in 1997, 2000, 2007, 2015, and 2025 for development and deployment of AI technologies for space missions. He has supported numerous government bodies including the Defense Science Board and the Air Force Scientific Advisory Board.  He was appointed by Congress to the National Security Commission on Artificial Intelligence (2018-2021).  He also served on the Army Science Board from 2023-2025.
+
 ## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
 <img src="nick-hawes-happy.jpeg" alt="Alt Text" width="300">
 
