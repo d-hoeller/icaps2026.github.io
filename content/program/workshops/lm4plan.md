@@ -6,6 +6,8 @@ draft: false
 
 # 3rd Workshop on Planning in the Era of LLMs (LM4Plan @ ICAPS 2026)
 
+> **Update:** The list of accepted papers has been added — see [Accepted Papers](#accepted-papers).
+
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/ICAPS26/) for up-to-date information.
 ICAPS’26 Workshop,
 Dublin, Ireland
@@ -60,6 +62,41 @@ Authors submitting papers rejected from other conferences, please ensure you do 
 
 All **submissions must be anonymized** and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
 
+
+# Accepted Papers
+
+- **Semantic Partial Grounding via LLMs**\
+  *Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo*
+- **FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation**\
+  *Vishal Pallagani, Nitin Gupta, John A. Aydin, Biplav Srivastava*
+- **ALPSBench: Can Large Language Models Reason Their Way Through Planning Formalisms?**\
+  *Marcus Tantakoun, Christian Muise, Xiaodan Zhu*
+- **Benchmarking LLM Pipelines for Natural Language to Automated Planning Models**\
+  *Marcus Tantakoun, Christian Muise, Xiaodan Zhu*
+- **Learning HTNs from Visual Demonstration with Vision-Language Models: Preliminary Results**\
+  *Ngoc La, Karthik Mahadevan, Pulkit Verma, Julie Shah*
+- **Integrating the Unified Planning Framework via MCP with Large Language Models for Reliable Automated Planning**\
+  *João Areias Saraiva, Thomas Kirste*
+- **LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning**\
+  *Elliot Gestrin, Jendrik Seipp*
+- **On the Ability of Transformers to Verify Plans**\
+  *Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiebaux, Michael Hahn*
+- **Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents**\
+  *Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz*
+- **Toward a General Framework for Evaluating Per-Domain Generalization Using LLMs, Theorem Provers, and Statistical Model Checking**\
+  *Nicola J. Müller, Naya Rudolph, Ayal Taitler, Timo P. Gros*
+- **The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents**\
+  *Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan*
+- **Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics**\
+  *Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka*
+- **Towards LLM-Driven Synthesis of Narrative Planning Models**\
+  *Allix Fletcher, Christian Muise*
+- **Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents**\
+  *Vikas Kumar, Jyotsana Khatri, Shirish Karande*
+- **A Natural Language Copilot for Interactive Plan Space Exploration**\
+  *Paul Horn, Daniel Gnad*
+- **Operationally Grounded Evaluation and Repair for NL-to-PDDL Problem Generation**\
+  *Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos*
 
 # Organizing Committee
 
