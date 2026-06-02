@@ -9,9 +9,7 @@ draft: false
 > **Update:** The list of accepted papers has been added — see [Accepted Papers](#accepted-papers).
 
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/ICAPS26/) for up-to-date information.
-ICAPS’26 Workshop,
-Dublin, Ireland
-Date: June 28 or 29 2026
+The workshop will take place on **June 29, 2026**.
 
 # Overview
 Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LMs can contribute to planning, how LMs can/should be used, what the pitfalls of using LMs are and what guarantees can be obtained.
@@ -34,8 +32,9 @@ We particularly encourage submissions leveraging small and open-weight language 
 
 
 # Important Dates
-- Paper submission deadline: ~~May 1st, 2026, AoE~~ **May 8th, 2026, AoE**
-- Paper acceptance notification: **June 2nd, 2026, AoE**
+- Paper submission deadline: ~~May 1st, 2026, AoE~~ ~~May 8, 2026, AoE~~
+- Paper acceptance notification: ~~June 2nd, 2026, AoE~~
+- Workshop: **June 29, 2026**
 
 ICAPS will be **in-person** this year. **Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.** All accepted papers will have an **oral presentation**.
 
