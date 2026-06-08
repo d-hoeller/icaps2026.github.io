@@ -384,7 +384,35 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Session 2A: Multi-Agent Planning</div>
+<div class="session-header">Session 2A: Model Learning and Model Repair</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Domain Model Acquisition From Binary Traces</strong><br/>
+<em>Arash Haratian, Arnaud Lequen, Daniel Gnad and Jendrik Seipp</em>
+</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">13:45</strong> &nbsp; <strong>Learning Numeric Action Models with Anytime Guarantees</strong><br/>
+<em>Diego Aineto and Enrico Scala</em>
+</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Learning Lifted Action Models from Unsupervised Visual Traces</strong><br/>
+<em>Kai Xi, Stephen Gould and Sylvie Thiebaux</em>
+</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">14:20</strong> &nbsp; <strong>On Sample-Efficient Generalized Planning via Learned Transition Models</strong><br/>
+<em>Nitin Gupta, Vishal Pallagani, John A. Aydin and Biplav Srivastava</em>
+</div>
+
+</div>
+</div>
+
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">Session 2B: Multi-Agent Planning</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Risk-Bounded Multi-Agent Visual Navigation via Iterative Risk Allocation</strong><br/>
@@ -417,26 +445,15 @@ draft: false
 
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Session 2B: Model Learning and Model Repair</div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Domain Model Acquisition From Binary Traces</strong><br/>
-<em>Arash Haratian, Arnaud Lequen, Daniel Gnad and Jendrik Seipp</em>
+<strong style="color: #f5821f;">14:30</strong> &nbsp; <strong>A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans</strong><br/>
+<em>Nika Beriachvili and Arthur Bit-Monnot</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:45</strong> &nbsp; <strong>Learning Numeric Action Models with Anytime Guarantees</strong><br/>
-<em>Diego Aineto and Enrico Scala</em>
-</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Learning Lifted Action Models from Unsupervised Visual Traces</strong><br/>
-<em>Kai Xi, Stephen Gould and Sylvie Thiebaux</em>
-</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">14:20</strong> &nbsp; <strong>On Sample-Efficient Generalized Planning via Learned Transition Models</strong><br/>
-<em>Nitin Gupta, Vishal Pallagani, John A. Aydin and Biplav Srivastava</em>
+<strong style="color: #f5821f;">14:45</strong> &nbsp; <strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
+<em>Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares</em>
 </div>
 
 </div>
@@ -457,22 +474,6 @@ draft: false
 
 </div>
 </div>
-
-<div class="parallel-session">
-<div class="session-block">
-
-<div class="paper-item">
-<strong style="color: #f5821f;">14:30</strong> &nbsp; <strong>A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans</strong><br/>
-<em>Nika Beriachvili and Arthur Bit-Monnot</em>
-</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">14:45</strong> &nbsp; <strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
-<em>Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares</em>
-</div>
-
-</div>
-</div>
 </div>
 
 <div class="special-event">15:00 – 15:30 — Coffee Break</div>
@@ -482,35 +483,7 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Session 3A: Routing and Scheduling</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem</strong><br/>
-<em>Srikar Gouru, Ariel Felner and Jiaoyang Li</em>
-</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">15:15</strong> &nbsp; <strong>H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing</strong><br/>
-<em>Chuyin Peng, Feng-Feng Wei and Wei-Neng Chen</em>
-</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>EMOA*: A Framework for Search-Based Multi-Objective Path Planning</strong><br/>
-<em>Zhongqiang Ren, Carlos Hernández, Maxim Likhachev, Ariel Felner, Sven Koenig, Oren Salzman, Sivakumar Rathinam and Howie Choset</em>
-</div>
-
-<div class="paper-item">
-<strong style="color: #f5821f;">15:45</strong> &nbsp; <strong>Learning-Guided Simulated Annealing for the Capacitated Vehicle Routing Problem</strong><br/>
-<em>Jules Andretti, Jérémie Cabessa and Yann Strozecki</em>
-</div>
-
-</div>
-</div>
-
-
-<div class="parallel-session">
-<div class="session-block">
-<div class="session-header">Session 3B: Planning under Uncertainty and Non-Determinism (FOND, POMDPs, Abstractions)</div>
+<div class="session-header">Session 3A: Planning under Uncertainty and Non-Determinism (FOND, POMDPs, Abstractions)</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Leveraging the Value of Information in POMDP Planning</strong><br/>
@@ -542,15 +515,43 @@ draft: false
 
 <div class="parallel-session">
 <div class="session-block">
+<div class="session-header">Session 3B: Routing and Scheduling</div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>Multi-Neighborhood Simulated Annealing for the Oven Scheduling Problem</strong><br/>
-<em>Francesca Da Ros, Luca Di Gaspero, Marie-Louise Lackner, Nysret Musliu and Felix Winter</em>
+<strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem</strong><br/>
+<em>Srikar Gouru, Ariel Felner and Jiaoyang Li</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Learning Distributed Scheduling via LLM-Augmented Reinforcement Learning</strong><br/>
-<em>Yun Liu, Yuqi Feng, Jiahao Fan, Shangce Gao and Yanan Sun</em>
+<strong style="color: #f5821f;">15:15</strong> &nbsp; <strong>H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing</strong><br/>
+<em>Chuyin Peng, Feng-Feng Wei and Wei-Neng Chen</em>
+</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>EMOA*: A Framework for Search-Based Multi-Objective Path Planning</strong><br/>
+<em>Zhongqiang Ren, Carlos Hernández, Maxim Likhachev, Ariel Felner, Sven Koenig, Oren Salzman, Sivakumar Rathinam and Howie Choset</em>
+</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">15:45</strong> &nbsp; <strong>Learning-Guided Simulated Annealing for the Capacitated Vehicle Routing Problem</strong><br/>
+<em>Jules Andretti, Jérémie Cabessa and Yann Strozecki</em>
+</div>
+
+</div>
+</div>
+
+
+<div class="parallel-session">
+<div class="session-block">
+
+<div class="paper-item">
+<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>Complete and Optimal Robust Planning against Nature</strong><br/>
+<em>Lukas Chrpa and Erez Karpas</em>
+</div>
+
+<div class="paper-item">
+<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>AUPO – Abstracted Until Proven Otherwise: A Reward Distribution Based Abstraction Algorithm</strong><br/>
+<em>Robin Schmöcker, Alexander Dockhorn and Bodo Rosenhahn</em>
 </div>
 
 </div>
@@ -560,13 +561,13 @@ draft: false
 <div class="session-block">
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:15</strong> &nbsp; <strong>Complete and Optimal Robust Planning against Nature</strong><br/>
-<em>Lukas Chrpa and Erez Karpas</em>
+<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>Multi-Neighborhood Simulated Annealing for the Oven Scheduling Problem</strong><br/>
+<em>Francesca Da Ros, Luca Di Gaspero, Marie-Louise Lackner, Nysret Musliu and Felix Winter</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>AUPO – Abstracted Until Proven Otherwise: A Reward Distribution Based Abstraction Algorithm</strong><br/>
-<em>Robin Schmöcker, Alexander Dockhorn and Bodo Rosenhahn</em>
+<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Learning Distributed Scheduling via LLM-Augmented Reinforcement Learning</strong><br/>
+<em>Yun Liu, Yuqi Feng, Jiahao Fan, Shangce Gao and Yanan Sun</em>
 </div>
 
 </div>
