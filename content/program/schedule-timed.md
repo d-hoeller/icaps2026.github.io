@@ -79,7 +79,7 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
-<div class="time-slot">09:00 – 12:30 — Morning Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 10:30 – 10:50)</span></div>
+<div class="time-slot">09:00 – 12:30 — Morning Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 10:30 – 10:50 in the open space and meeting rooms on the second floor)</span></div>
 
 <div class="parallel-sessions">
 <div class="parallel-session">
@@ -127,7 +127,7 @@ draft: false
 
 <div class="special-event">13:00 – 14:30 — Lunch — Sussex Restaurant</div>
 
-<div class="time-slot">14:30 – 18:00 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 16:00 – 16:20)</span></div>
+<div class="time-slot">14:30 – 18:00 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 16:00 – 16:20 in the open space and meeting rooms on the second floor)</span></div>
 
 <div class="parallel-sessions">
 <div class="parallel-session">
@@ -180,7 +180,7 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
-<div class="time-slot">09:00 – 12:30 — Morning Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 10:30 – 10:50)</span></div>
+<div class="time-slot">09:00 – 12:30 — Morning Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 10:30 – 10:50 in the open space and meeting rooms on the second floor)</span></div>
 
 <div class="parallel-sessions">
 <div class="parallel-session">
@@ -221,7 +221,7 @@ draft: false
 
 <div class="special-event">12:30 – 14:00 — Lunch — Sussex Restaurant</div>
 
-<div class="time-slot">14:00 – 17:30 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 15:30 – 15:50)</span></div>
+<div class="time-slot">14:00 – 17:30 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 15:30 – 15:50 in the open space and meeting rooms on the second floor)</span></div>
 
 <div class="parallel-sessions">
 <div class="parallel-session">
