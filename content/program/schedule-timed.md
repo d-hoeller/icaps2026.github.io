@@ -125,7 +125,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">13:00 – 14:30 — Lunch</div>
+<div class="special-event">13:00 – 14:30 — Lunch — Sussex Restaurant</div>
 
 <div class="time-slot">14:30 – 18:00 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 16:00 – 16:20)</span></div>
 
@@ -219,7 +219,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:30 – 14:00 — Lunch</div>
+<div class="special-event">12:30 – 14:00 — Lunch — Sussex Restaurant</div>
 
 <div class="time-slot">14:00 – 17:30 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 15:30 – 15:50)</span></div>
 
@@ -276,11 +276,11 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
-<div class="special-event">08:40 – 09:00 — Opening Remarks</div>
+<div class="special-event">08:40 – 09:00 — Opening Remarks — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">09:00 – 10:00 — Invited Talk I</div>
+<div class="special-event">09:00 – 10:00 — Invited Talk: Nick Hawes — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">10:00 – 10:30 — Coffee Break</div>
+<div class="special-event">10:00 – 10:30 — Coffee Break — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 <div class="time-slot">10:30 – 12:00 — Morning Sessions</div>
 
@@ -288,6 +288,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 1A: Classical Planning I</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Simplifying Planning Tasks with Fact-Level Relevance Analysis</strong><br/>
@@ -315,6 +316,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 1B: Applications I</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>GPMS: A Generalized Parallel Machine Scheduling Framework with Rich Temporal and Resource Constraints</strong><br/>
@@ -377,7 +379,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:00 – 13:30 — Lunch</div>
+<div class="special-event">12:00 – 13:30 — Lunch — Sussex Restaurant</div>
 
 <div class="time-slot">13:30 – 15:00 — Afternoon Sessions</div>
 
@@ -385,6 +387,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 2A: Model Learning and Model Repair</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Domain Model Acquisition From Binary Traces</strong><br/>
@@ -413,6 +416,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 2B: Multi-Agent Planning</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Risk-Bounded Multi-Agent Visual Navigation via Iterative Risk Allocation</strong><br/>
@@ -476,7 +480,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">15:00 – 15:30 — Coffee Break</div>
+<div class="special-event">15:00 – 15:30 — Coffee Break — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 <div class="time-slot">15:30 – 17:00 — Afternoon Sessions</div>
 
@@ -484,6 +488,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 3A: Planning under Uncertainty and Non-Determinism (FOND, POMDPs, Abstractions)</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Leveraging the Value of Information in POMDP Planning</strong><br/>
@@ -516,6 +521,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 3B: Routing and Scheduling</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem</strong><br/>
@@ -574,9 +580,9 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">17:00 – 17:20 — Industry Forum: Hexaly talk</div>
+<div class="special-event">17:00 – 17:20 — Industry Forum: Hexaly talk — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">17:20 – 18:30 — Poster and Demo Session</div>
+<div class="special-event">17:20 – 18:30 — Poster and Demo Session — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 ---
 
@@ -585,9 +591,9 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
-<div class="special-event">09:00 – 10:00 — Invited Talk II</div>
+<div class="special-event">09:00 – 10:00 — Invited Talk: Nora Ayanian — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">10:00 – 10:30 — Coffee Break</div>
+<div class="special-event">10:00 – 10:30 — Coffee Break — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 <div class="time-slot">10:30 – 12:00 — Morning Sessions</div>
 
@@ -595,6 +601,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 4A: Classical Planning II and Dynamic Programming</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Planning as Goal Recognition: Deriving Heuristics from Intention Models</strong><br/>
@@ -622,6 +629,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 4B: Human-Aware Planning</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>MO-VLA: Preference Adaptation for Vision-Language-Action Models via Multi-Objective Reinforcement Learning</strong><br/>
@@ -684,7 +692,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:00 – 13:30 — Lunch</div>
+<div class="special-event">12:00 – 13:30 — Lunch — Sussex Restaurant</div>
 
 <div class="time-slot">13:30 – 15:00 — Afternoon Sessions</div>
 
@@ -692,6 +700,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 5A: Temporal and Numeric Planning</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Compiling Expressive Planning With Data Types</strong><br/>
@@ -734,6 +743,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 5B: Learning and Planning</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement Learning</strong><br/>
@@ -774,11 +784,11 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">15:00 – 15:30 — Coffee Break</div>
+<div class="special-event">15:00 – 15:30 — Coffee Break — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
-<div class="special-event">15:30 – 17:30 — Community Meeting and Awards</div>
+<div class="special-event">15:30 – 17:30 — Community Meeting and Awards — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">17:30 – 18:00 — IPC Results</div>
+<div class="special-event">17:30 – 18:00 — IPC Results — Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="special-event">19:15 – Late — Conference Banquet — Guinness Storehouse (Buses depart Conference Hotel at 19:15)</div>
 
@@ -789,9 +799,9 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
-<div class="special-event">09:00 – 10:00 — Invited Talk III</div>
+<div class="special-event">09:00 – 10:00 — Invited Talk: Pascal Bercher — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">10:00 – 10:30 — Coffee Break</div>
+<div class="special-event">10:00 – 10:30 — Coffee Break — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 <div class="time-slot">10:30 – 12:00 — Morning Sessions</div>
 
@@ -799,6 +809,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 6A: Complexity</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Reversibility and Reachability in HTN Planning: Formalization and Computational Complexities in the Totally-Ordered Setting</strong><br/>
@@ -836,6 +847,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 6B: Robotics</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions</strong><br/>
@@ -871,7 +883,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:00 – 13:30 — Lunch</div>
+<div class="special-event">12:00 – 13:30 — Lunch — Sussex Restaurant</div>
 
 <div class="time-slot">13:30 – 15:05 — Afternoon Sessions</div>
 
@@ -879,6 +891,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 7A: Agentic AI, Gen AI, and Foundation Models for Planning</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Self-Improvement for Fast, High-Quality Plan Generation</strong><br/>
@@ -921,6 +934,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 7B: MAPF</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF</strong><br/>
@@ -961,7 +975,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">15:05 – 15:30 — Coffee Break</div>
+<div class="special-event">15:05 – 15:30 — Coffee Break — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 <div class="time-slot">15:30 – 16:30 — Afternoon Sessions</div>
 
@@ -969,6 +983,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 8A: Plan Execution under Uncertainty</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Incremental LTLf Synthesis</strong><br/>
@@ -996,6 +1011,7 @@ draft: false
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 8B: Applications II</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Fully Packed and Ready to Go: High-Density, Rearrangement-Free, Grid-Based Storage and Retrieval</strong><br/>
