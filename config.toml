@@ -271,7 +271,7 @@ languageCode = 'en_US'
   name = "Accepted Papers"
   url = "/program/accepted"
   parent = "program"
-  weight = "15"
+  weight = 60
 # [[menu.main]]
 #   identifier = "awards"
 #    name = "Awards"
@@ -283,19 +283,19 @@ languageCode = 'en_US'
   name = "Demos"
   url = "/program/demos"
   parent = "program"
-  weight = 20
+  weight = 55
 #  [[menu.main]]
 #    identifier = "doctoral-consortium"
 #    name = "Doctoral Consortium"
 #    url = "/program/dc"
 #    parent = "program"
 #    weight = 20
- # [[menu.main]]
- #   identifier = "keynotes"
- #   name = "Keynotes"
- #   url = "/program/keynotes"
- #   parent = "program"
- #   weight = "30"
+[[menu.main]]
+  identifier = "keynotes"
+  name = "Keynotes"
+  url = "/program/keynotes"
+  parent = "program"
+  weight = 20
 # [[menu.main]]
 #   identifier = "panel"
 #   name = "Industry Panel"
