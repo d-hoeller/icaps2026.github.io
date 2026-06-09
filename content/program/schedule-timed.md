@@ -435,7 +435,7 @@ draft: false
 </div>
 
 <div class="paper-item">
-<strong style="color: #c00;">(time TBC)</strong> &nbsp; <strong>Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning</strong><br/>
+<strong style="color: #f5821f;">14:20</strong> &nbsp; <strong>Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning</strong><br/>
 <em>Emanuele Musumeci, Michele Brienza, Francesco Argenziano, Abdel Hakim Drid, Vincenzo Suriani, Daniele Nardi, and Domenico D. Bloisi</em>
 </div>
 
