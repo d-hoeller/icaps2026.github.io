@@ -276,7 +276,7 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
-<div class="special-event">08:40 – 09:00 — Opening Remarks — Plenary Room - Pembroke &amp; Herbert</div>
+<div class="special-event">08:45 – 09:00 — Opening Remarks — Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="special-event">09:00 – 10:00 — Invited Talk: Nick Hawes — Plenary Room - Pembroke &amp; Herbert</div>
 
@@ -580,7 +580,7 @@ draft: false
 </div>
 </div>
 
-<div class="time-slot">17:00 – 17:20 — Industry Forum</div>
+<div class="time-slot">17:00 – 17:20 — Industry Talks</div>
 
 <div class="parallel-sessions">
 <div class="parallel-session">
@@ -598,7 +598,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">17:20 – 18:30 — Poster and Demo Session — Fitzwilliam Suites &amp; Pre-Function Area</div>
+<div class="special-event">17:20 – 18:45 — Poster and Demo Session — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
 ---
 
@@ -804,7 +804,7 @@ draft: false
 
 <div class="special-event">15:30 – 17:30 — Community Meeting and Awards — Plenary Room - Pembroke &amp; Herbert</div>
 
-<div class="special-event">17:30 – 18:00 — IPC Results — Plenary Room - Pembroke &amp; Herbert</div>
+<div class="special-event">17:30 – 18:10 — IPC Results — Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="special-event">19:15 – Late — Conference Banquet — Guinness Storehouse (Buses depart Conference Hotel at 19:15)</div>
 
