@@ -65,7 +65,7 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 * 12.05 Guy Azran, Michael Navat and Sarah Keren, Robust Visual Planning under Partial Observability and Perceptual Uncertainty<br>
 * 12.20 Samantha Papais, Using Automated Planning for the Safety Protocol Verification of Space Robotics<br>
 * 12.30 **Lunch Break** <br>
-* 14.00 **Keynote talk by Steve Chien** <br>
+* 14.00 **Keynote talk by <a href="https://github.com/pstlab/icaps2026.github.io.planrob/blob/main/content/program/workshops/planrob.md#invited-talk-by-steve-chien"Steve Chien</a>** <br>
 * 15.00 Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi, Inverse Manipulation through Symbolic Planning and Residual Operator Learning<br>
 * 15.15 Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml, Situated Planning with Soft Goals<br>
 * 15.30 **Coffee Break** <br>
