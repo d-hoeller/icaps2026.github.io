@@ -257,12 +257,12 @@ theme = 'mainroad'
    url = "/program/accepted"
    parent = "program"
    weight = 60
-# [[menu.main]]
-#   identifier = "awards"
-#    name = "Awards"
-#    url = "/program/awards"
-#    parent = "program"
-#    weight = 20
+ [[menu.main]]
+   identifier = "awards"
+   name = "Awards"
+   url = "/program/awards"
+   parent = "program"
+   weight = 25
  [[menu.main]]
    identifier = "demos"
    name = "Demos"
