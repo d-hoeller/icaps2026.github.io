@@ -67,6 +67,43 @@ Together, both the DC and the LaunchPad Workshop aim to:
     text-align: center;
     font-weight: bold;
 }
+.schedule-session {
+    margin: 20px 0;
+}
+.schedule-session .special-event {
+    margin-bottom: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.schedule-session ul.speaker-list {
+    list-style: none;
+    margin: 0 0 20px 0;
+    padding: 15px 20px;
+    background-color: #f7fbfd;
+    border: 1px solid #d6e9f2;
+    border-top: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 8px 24px;
+}
+.speaker-list li {
+    list-style: none;
+    position: relative;
+    padding-left: 18px;
+    line-height: 1.5;
+}
+.speaker-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #f5821f;
+}
 </style>
 
 <div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
@@ -132,21 +169,21 @@ Together, both the DC and the LaunchPad Workshop aim to:
 <div class="special-event">12:00 – 13:30 — Lunch</div>
 
 <section class="schedule-session">
-<div class="special-event">13:30 – 14:30 — Spotlight Presentation 1 — Meeting Room 1+2</div>
+  <div class="special-event">13:30 – 14:30 — Spotlight Presentation 1 — Meeting Room 1+2</div>
   <ul class="speaker-list">
-  <li>Rasmus Tollund</li>
-  <li>Jakub Med</li>
-  <li>João Filipe Boucinha</li>
-  <li>Claudia Grundke</li>
-  <li>Devin Thomas</li>
-  <li>Marijnissen Imko</li>
-  <li>Lukas Frühwirth</li>
-  <li>Alexander Lodemann</li>
-  <li>Alessandro La Farciola</li>
-  <li>Irene Brugnara</li>
-  <li>Giacomo Rosa</li>
-  <li>María Fernanda Salerno Garmendia</li>
-</ul>
+    <li>Rasmus Tollund</li>
+    <li>Jakub Med</li>
+    <li>João Filipe Boucinha</li>
+    <li>Claudia Grundke</li>
+    <li>Devin Thomas</li>
+    <li>Marijnissen Imko</li>
+    <li>Lukas Frühwirth</li>
+    <li>Alexander Lodemann</li>
+    <li>Alessandro La Farciola</li>
+    <li>Irene Brugnara</li>
+    <li>Giacomo Rosa</li>
+    <li>María Fernanda Salerno Garmendia</li>
+  </ul>
 </section>
 
 <div class="special-event">14:30 – 15:30 — Poster Session 1 — Meeting Room 6</div>
