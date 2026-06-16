@@ -117,7 +117,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Doctoral Consortium</div>
-<div class="session-subheader">Invited talk by (Best Dissertation) Award Winner — <span class="session-room">Meeting Room 2</span></div>
+<div class="session-subheader">Invited talk by Luigi Bonassi, Honorable Mention for the Best Dissertation Award — <span class="session-room">Meeting Room 2</span></div>
 </div>
 </div>
 
@@ -133,7 +133,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 <section class="schedule-session">
 <div class="special-event">13:30 – 14:30 — Spotlight Presentation 1 — Meeting Room 1+2</div>
-  <ul class="speaker-list">
+  <ol class="speaker-list">
   <li>Rasmus Tollund</li>
   <li>Jakub Med</li>
   <li>João Filipe Boucinha</li>
@@ -146,7 +146,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
   <li>Irene Brugnara</li>
   <li>Giacomo Rosa</li>
   <li>María Fernanda Salerno Garmendia</li>
-</ul>
+</ol>
 </section>
 
 <div class="special-event">14:30 – 15:30 — Poster Session 1 — Meeting Room 6</div>
@@ -155,7 +155,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 <section class="schedule-session">
   <div class="special-event">16:00 – 17:00 — Spotlight Presentation 2 — Meeting Room 1+2</div>
-  <ul class="speaker-list">
+  <ol class="speaker-list">
     <li>Carla Davesa Sureda</li>
     <li>Elliot Gestrin</li>
     <li>Edoardo Cesari</li>
@@ -168,7 +168,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
     <li>Bharath Muppasani</li>
     <li>Elisa Santini</li>
     <li>Laouar Zakariya</li>
-  </ul>
+  </ol>
 </section>
 
 
