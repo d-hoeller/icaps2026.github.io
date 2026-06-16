@@ -19,7 +19,7 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 ## Accepted Papers
 * Eyal Tadmor, Erez Karpas and Marc Toussaint. Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
 * Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml. Situated Planning with Soft Goals<br>
-* Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam. DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
+* Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam. TITLE TO BE ANNOUNCED<br>
 * Lidor Erez, Shahaf Shperberg and Ayal Taitler. From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution<br>
 * Sarthak Chittawar, Vansh Garg, Aditya Vadali, Krish Pandya, Rohit Jayanti, Sourav Garg and K Madhava Krishna. PixelLoop: Shortcut Topological Navigation with Pixel-Level Loop Closures<br>
 * Simon Ferrier, Alessandro Renzaglia and Olivier Simonin. AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan<br>
@@ -61,7 +61,7 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 * 11.05 Lidor Erez, Shahaf Shperberg and Ayal Taitler, From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution<br>
 * 11.20 Qi Heng Ho, Zachary Sunberg and Morteza Lahijanian, Sampling-based Task and Kinodynamic Motion Planning under Semantic Uncertainty<br>
 * 11.35 Sarthak Chittawar, PixelLoop: Shortcut Topological Navigation with Pixel-Level Loop Closures<br>
-* 11.50 Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam, DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
+* 11.50 Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam, TITLE TO BE ANNOUNCED <br> 
 * 12.05 Guy Azran, Michael Navat and Sarah Keren, Robust Visual Planning under Partial Observability and Perceptual Uncertainty<br>
 * 12.20 Samantha Papais, Using Automated Planning for the Safety Protocol Verification of Space Robotics<br>
 * 12.30 **Lunch Break** <br>
