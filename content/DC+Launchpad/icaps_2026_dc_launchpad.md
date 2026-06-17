@@ -213,7 +213,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 <div class="special-event">18:00 – 18:15 — Closing Remarks — Meeting Room 1+2</div>
 
-<div class="special-event">19:00 – Open End — DC Dinner @ The Bridge 1859</div>
+<div class="special-event">19:00 – Open End —  Doctoral Consortium and Launchpad Dinner @ The Bridge 1859</div>
 
 ---
 
