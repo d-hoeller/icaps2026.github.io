@@ -327,7 +327,7 @@ The LaunchPad Workshop will be a **full-day, in-person** event co-located with t
 - Open discussion with panelists.  
 - Joint activities with the Doctoral Consortium, such as attending selected DC presentations, a joint poster session, and informal discussions.  
 - Mentoring interactions, where each LaunchPad participant is matched with a mentor.  
-- Social events, such as a joint DC & LaunchPad dinner, to encourage informal networking.
+- Social events, such as a joint DC & LaunchPad dinner paid by ICAPS, to encourage informal networking.
 
 ### Application Procedure for LaunchPad
 
