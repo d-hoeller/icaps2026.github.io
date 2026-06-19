@@ -55,8 +55,8 @@ A remote [Zoom session](https://monash.zoom.us/j/84642033869?pwd=upGNuvgSm0anYgM
 | 16:00–16:20 | Official tea break                                                                                                                                                                            |
 | 16:20–16:35 | IPC competition session                                                                                                                                                                       |
 | 16:35–16:47 | **Concurrent Action Models for DEL**<br>Ludovico Deponte                                                                                                                                      |
-| 16:47–16:59 | **A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**<br>Haniel Ulises Vasquez Morales                                                              |
-| 16:59–17:11 | **RP-M*P: Extending Epistemic Planning with Dynamic Desires and Intentions**<br>Rebecca Leah De Venezia, Christian Muise                                                                      |
+| 16:47–16:59 | **RP-M*P: Extending Epistemic Planning with Dynamic Desires and Intentions**<br>Rebecca Leah De Venezia, Christian Muise                                                                      |
+| 16:59–17:11 | **A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**<br>Haniel Ulises Vasquez Morales                                                              |
 | 17:11–17:23 | **Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions**<br>Halim Djerroud                                                                          |
 | 17:23–17:35 | **Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces**<br>Stella Condrò, Giuseppe De Giacomo, Gianmarco Parretti, Elisa Santini |
 | 17:35–17:47 | **Synthesis Foundations for Online LTLf Goal Management**<br>Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi                                                          |
