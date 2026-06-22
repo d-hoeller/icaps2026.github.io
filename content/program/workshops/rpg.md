@@ -35,11 +35,11 @@ The reference timezone for all deadlines is **UTC-12**. That is, as long as ther
     * **15:20 - 15:40** | *From Domain to Action: A Cohesive Planning Pipeline for Game AI in Unity Engine* — Marek Marchlewicz
     * **15:40 - 16:00** | *Dynamic Scene Reconstruction for Prototyping Planning-Based Game Environments* — Albaraa Othman, Emanuele De Pellegrin, and Ron Petrick
 * **16:00 - 16:20** | Coffee Break
-* **16:20 - 17:10** | **Paper Presentations** *(Theme: Applications of Games for Planning)*
-    * **16:20 - 16:40** | *Active Information Gathering in Social Deduction Game* — Haochong Luo, Chenyuan Zhang, and Guang Hu
+* **16:20 - 17:10** | **Paper Presentations** *(Theme: Applications of Games for Planning)* - *now with correct order!*
+    * **16:20 - 16:40** | *Baba Is Axioms: A Challenging Benchmark for Classical Planning with Axioms* — Ronny Rochwerg, Allix Fletcher, Samantha Papais, Cynthia Wang, Connor Little, Ting Hu, and Christian Muise
     * **16:40 - 16:55**| *A Good Snowman Is (also Numerically) Hard to Plan* — Matteo Paparo, Francesco Doria, Marco Maratea, and Mauro Vallati
-    * **16:55 - 17:10** | *Baba Is Axioms: A Challenging Benchmark for Classical Planning with Axioms* — Ronny Rochwerg, Allix Fletcher, Samantha Papais, Cynthia Wang, Connor Little, Ting Hu, and Christian Muise
-* **17:10 - 17:55** | **Invited Talk:** Jeff Orkin — *[Title TBA]*
+    * **16:55 - 17:10** | *Active Information Gathering in Social Deduction Game* — Haochong Luo, Chenyuan Zhang, and Guang Hu
+* **17:10 - 17:55** | **Invited Talk:** Jeff Orkin — *Planning in Games in the Age of LLMs*
 * **17:55 - 18:00** | Closing
 
 
@@ -61,10 +61,16 @@ The reference timezone for all deadlines is **UTC-12**. That is, as long as ther
 ---
 
 ### Jeff Orkin (Bitpart AI)
-* **Talk Title:** [Title TBA]
-* **Abstract:** [Abstract TBA]
-* **Bio:** Dr. Jeff Orkin is an AI researcher, serial entrepreneur, and game industry veteran. He is currently the Co-founder and CEO of Bitpart AI, a startup developing advanced NPC technology. Dr. Orkin pioneered the use of automated planning systems in video games with his seminal work on the Goal-Oriented Action Planning (GOAP) architecture for the award-winning game *F.E.A.R.* He holds a PhD from the MIT Media Lab, where he explored learning generative behavior and dialogue from human data via *The Restaurant Game* project, and has previously founded Giant Otter Technologies.
-
+* **Talk Title:** Planning in Games in the Age of LLMs
+* **Abstract:** Bitpart is building a multi-agent, multi-modal hierarchical planning system for games, to puppeteer groups of NPCs in living worlds, and narrative experiences.  This talk will explore our approach, discuss technical design decisions we've made, and challenges we've faced implementing a powerful planner.  In the process, we will consider how LLMs and planners can work together, to balance the pros and cons of each, and achieve the best of both worlds. 
+<div style="display: block; overflow: hidden; margin-top: 15px;">
+  <img src="https://i.ibb.co/jvXnzTLM/1781892603792.jpg" alt="Dr. Jeff Orkin" style="float: left; width: 160px; margin-right: 20px; border-radius: 4px; margin-bottom: 10px;" />
+  <div style="overflow: hidden;">
+    <p style="margin: 0;"><strong>Bio:</strong> Dr. Jeff Orkin is an AI researcher, entrepreneur, and game industry veteran. He is the Co-founder and CEO of Bitpart AI, a startup focused on building advanced NPC systems that combine Large Language Models (LLMs) with automated planning to enable more dynamic and believable game worlds. Prior to Bitpart AI, he founded Giant Otter Technologies, a conversational AI company that emerged from his PhD research at the MIT Media Lab, where he worked on learning character behavior from human gameplay data. <br>
+    Jeff spent over a decade in the game industry as an AI specialist at Sierra and Monolith Productions, contributing to landmark titles such as No One Lives Forever 2 and F.E.A.R., the latter of which is widely recognized for pioneering the use of Goal-Oriented Action Planning (GOAP) in commercial games. His work has been influential in shaping modern game AI systems that balance planning, behavior trees, and emergent agent behavior. <br>
+    He has co-authored volumes in the AI Game Programming Wisdom series, served as Associate Editor for the IEEE Transactions on Computational Intelligence and AI in Games, and has presented at major conferences including GDC, AIIDE, IEEE CIG, AAAI, AAMAS, ICAPS, and SARA. He holds a Master’s degree in Computer Science from the University of Washington and a Bachelor’s degree in Computer Science from Tufts University, with a minor in Studio Art.</p>
+  </div>
+</div>
 
 ## Accepted Papers
 * **A Good Snowman Is (also Numerically) Hard to Plan**, Matteo Paparo, Francesco Doria, Marco Maratea and Mauro Vallati
@@ -101,12 +107,12 @@ At least one author of each accepted paper **must register** for the ICAPS 2026 
 
 
 ## Program Committee
-* Lucas Bergholz
-* Andy Edmondson
-* Todd Neller
-* Ron Petrick
-* Ioannis Refanidis
-* Bruno César Ribas
+* **Lucas Bergholz**, University of Brasilia
+* **Andy Edmondson**, Heriot-Watt University
+* **Todd Neller**, Gettysburg College
+* **Ron Petrick**, Heriot-Watt University
+* **Ioannis Refanidis**, University of Macedonia
+* **Bruno César Ribas**, University of Brasilia
 
 
 ## Organizing Committee
