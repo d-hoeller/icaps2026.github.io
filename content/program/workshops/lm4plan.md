@@ -6,7 +6,7 @@ draft: false
 
 # 3rd Workshop on Planning in the Era of LLMs (LM4Plan @ ICAPS 2026)
 
-> **Update:** The list of accepted papers has been added — see [Accepted Papers](#accepted-papers).
+> **Update:** Schedule and Invited Talk announced!
 
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/ICAPS26/) for up-to-date information.
 The workshop will take place on **June 29, 2026**.
@@ -60,6 +60,156 @@ Authors submitting papers rejected from other conferences, please ensure you do 
 ### Double-blind Reviewing policy
 
 All **submissions must be anonymized** and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
+
+## Schedule
+
+<style>
+.lm4plan-schedule {
+  --accent: #f5821f;
+  --accent-soft: #fff4ea;
+  --line: #ededed;
+  margin: 1.5rem 0 2.5rem;
+}
+.lm4plan-schedule .lm4plan-day {
+  margin: 0 0 .25rem;
+  font-size: 1.45rem;
+  color: #2b2b2b;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: .3rem;
+}
+.lm4plan-schedule .lm4plan-session {
+  display: flex;
+  align-items: baseline;
+  gap: .6rem;
+  margin: 1.9rem 0 .6rem;
+}
+.lm4plan-schedule .lm4plan-session .name {
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.lm4plan-schedule .lm4plan-session .clock {
+  font-size: .9rem;
+  color: #777;
+  font-variant-numeric: tabular-nums;
+}
+.lm4plan-schedule .lm4plan-note {
+  color: #666;
+  font-style: italic;
+  margin: .4rem 0 .9rem;
+}
+.lm4plan-schedule table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .4rem 0 1.1rem;
+  font-size: .92rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .07);
+}
+.lm4plan-schedule thead { display: none; }
+.lm4plan-schedule tbody td {
+  padding: .55rem .85rem;
+  border-top: 1px solid var(--line);
+  vertical-align: top;
+  line-height: 1.4;
+}
+.lm4plan-schedule tbody tr:nth-child(even) { background: #faf9f8; }
+.lm4plan-schedule tbody tr:hover { background: var(--accent-soft); }
+.lm4plan-schedule td:first-child,
+.lm4plan-schedule th:first-child {
+  white-space: nowrap;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-variant-numeric: tabular-nums;
+  width: 1%;
+}
+.lm4plan-schedule td:nth-child(2) { font-weight: 600; color: #222; }
+.lm4plan-schedule td:nth-child(3) { color: #555; }
+.lm4plan-schedule td:last-child,
+.lm4plan-schedule th:last-child {
+  text-align: center;
+  white-space: nowrap;
+  width: 1%;
+  color: #888;
+  font-size: .82rem;
+  font-variant-numeric: tabular-nums;
+}
+.lm4plan-schedule .lm4plan-break {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  padding: .55rem .9rem;
+  margin: 1rem 0 1.6rem;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #8a4b12;
+}
+@media (max-width: 600px) {
+  .lm4plan-schedule table { font-size: .82rem; }
+  .lm4plan-schedule td, .lm4plan-schedule th { padding: .4rem .5rem; }
+}
+</style>
+
+<div class="lm4plan-schedule">
+
+<h3 class="lm4plan-day">Morning</h3>
+
+<div class="lm4plan-session"><span class="name">Session 1</span><span class="clock">9:00-10:20</span></div>
+
+<p class="lm4plan-note">9:00 — Opening remarks</p>
+
+| Time | Paper | Authors | Len |
+|------|-------|---------|-----|
+| 9:05 | Semantic Partial Grounding via LLMs | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
+| 9:20 | Benchmarking LLM Pipelines for Natural Language to Automated Planning Models | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
+| 9:35 | Operationally Grounded Evaluation and Repair for NL-to-PDDL Problem Generation | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
+| 9:50 | Towards LLM-Driven Synthesis of Narrative Planning Models | Allix Fletcher, Christian Muise | 15 |
+| 10:05 | A Natural Language Copilot for Interactive Plan Space Exploration | Paul Horn, Daniel Gnad | 15 |
+
+<div class="lm4plan-break">Coffee break - 10:30-10:50</div>
+
+<div class="lm4plan-session"><span class="name">Session 2</span><span class="clock">10:50-12:20</span></div>
+
+| Time | Paper | Authors | Len |
+|------|-------|---------|-----|
+| 10:50 | FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation | Vishal Pallagani, Nitin Gupta, John A. Aydin, Biplav Srivastava | 15 |
+| 11:05 | ALPSBench: Can Large Language Models Reason Their Way Through Planning Formalisms? | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
+| 11:20 | On the Ability of Transformers to Verify Plans | Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiebaux, Michael Hahn | 15 |
+| 11:35 | Toward a General Framework for Evaluating Per-Domain Generalization Using LLMs, Theorem Provers, and Statistical Model Checking | Nicola J. Müller, Naya Rudolph, Ayal Taitler, Timo P. Gros | 15 |
+| 11:50 | Integrating the Unified Planning Framework via MCP with Large Language Models for Reliable Automated Planning | João Areias Saraiva, Thomas Kirste | 15 |
+| 12:05 | Learning HTNs from Visual Demonstration with Vision-Language Models: Preliminary Results | Ngoc La, Karthik Mahadevan, Pulkit Verma, Julie Shah | 15 |
+
+<div class="lm4plan-break">Lunch break - 12:30-14:00</div>
+
+<h3 class="lm4plan-day">Afternoon</h3>
+
+<div class="lm4plan-session"><span class="name">Session 3</span><span class="clock">14:00-15:15</span></div>
+
+| Time | Paper | Authors | Len |
+|------|-------|---------|-----|
+| 14:00 | LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning | Elliot Gestrin, Jendrik Seipp | 15 |
+| 14:15 | Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics | Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka | 15 |
+| 14:30 | Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents | Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz | 15 |
+| 14:45 | Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
+| 15:00 | The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
+
+<div class="lm4plan-break">Coffee break - 15:30-15:50</div>
+
+<div class="lm4plan-session"><span class="name">Session 4</span><span class="clock">15:50-17:30</span></div>
+
+| Time | Paper | Authors | Len |
+|------|-------|---------|-----|
+| 15:50 | Invited talk: LLMs don't even need to plan — they can build planners | Jendrik Seipp | 50 |
+| 16:40 | Panel discussion and closing remarks |  | 50 |
+
+</div>
+
+<small>Talk length is shown in the last column in minutes. Paper talks are 10 min presentation + 5 min Q&A.</small>
 
 
 # Accepted Papers
