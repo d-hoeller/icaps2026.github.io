@@ -158,7 +158,7 @@ Examples of typical topics for submissions to this workshop are:
 | 9:35 | [Base Strategy Still Matters: Triangle Search in Domain-Independent Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_14.pdf) | Jordan Thayer, Sofia Lemons and Jendrik Seipp | L |
 | 9:50 | [Compact Representatives of Potential Heuristics](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_17.pdf) | Simon Dold and Malte Helmert | S |
 | 10:00 | [Delete Relaxation with Axioms](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_9.pdf) | Travis Rivera Petit, Simon Dold, David Speck and Malte Helmert | L |
-| 10:15 | GONDOR to the Rescue: Satisficing Planning with Low Memory | Yonatan Vernik, Alexander Tuisov and Alexander Shleyfman | S |
+| 10:15 | [GONDOR to the Rescue: Satisficing Planning with Low Memory](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_10.pdf) | Yonatan Vernik, Alexander Tuisov and Alexander Shleyfman | S |
 
 <div class="hsdip-break">Coffee break - 10:30-10:50</div>
 
