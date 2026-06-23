@@ -48,7 +48,7 @@ Reliability of data-driven artifacts, in particular ML classifier robustness and
 - Marcel Schubert and Daniel Höller – **Safety Verification of Additive Tree Ensemble Policies via Symbolic Search** [(bibtex)](/files/workshops/ripl/SchubertRIPL26.bib)
 - Farid Musayev, Dominik Drexler, Daniel Gnad, and Jendrik Seipp – **A Comparison of Sampling Strategies for Learning Policies** ([pdf](/files/workshops/ripl/MusayevRIPL26.pdf), [bibtex](/files/workshops/ripl/MusayevRIPL26.bib))
 - Victor Scherer Putrich, Tim Nico Bauerschmidt, Chaahat Jain, Songtuan Lin, Joerg Hoffmann, and Isabel Valera – **Formula Neural Networks as Action Policies in Safety-Critical Planning: An Empirical Evaluation** ([SoCS pdf](https://fai.cs.uni-saarland.de/putrich/papers/fnns-as-action-policies-an-empirical-evaluation.pdf)) (SoCS 2026 paper)
-- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis** [(bibtex)](/files/workshops/ripl/DrexlerRIPL26.bib)
+- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis** ([pdf](/files/workshops/ripl/DrexlerRIPL26.pdf), [bibtex](/files/workshops/ripl/DrexlerRIPL26.bib))
 
 **12:30 - 14:00 Lunch Break**
 
