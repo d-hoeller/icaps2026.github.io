@@ -217,6 +217,15 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 ---
 
+
+## Invited talk by Luigi Bonassi
+
+### Abstract
+Compiling one formalism into another is a widely used technique in AI, employed for both practical and theoretical purposes. In this talk, I will show how this approach can be effectively applied in AI planning to handle temporally extended goals and constraints. In particular, I will focus on compilation-based approaches for handling PDDL3 constraints and PPLTL goals, highlight the key challenges posed by these problems, and discuss the properties that make such compilations effective in the planning settings considered. I will also share my experience developing such compilations throughout my PhD, including some of the key lessons and insights gained along the way.
+
+### Short Bio
+Luigi Bonassi is a Postdoctoral Researcher in AI for Robot Decision-Making at the Oxford Robotics Institute (ORI). His doctoral research focused on Automated Planning, a field of AI that addresses the problem of deciding what to do in order to satisfy a set of goals. Specifically, he developed effective approaches for handling non-Markovian specifications on how goals are achieved. Luigi earned a Ph.D. in Information Engineering from the University of Brescia, where he also completed his Bachelor's and Master's degrees in Computer Science and Engineering.
+
 ## Who Should Attend?
 
 ### Doctoral Consortium (DC)
