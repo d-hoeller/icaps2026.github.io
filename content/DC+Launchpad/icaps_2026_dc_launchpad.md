@@ -220,6 +220,10 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 ## Invited talk by Luigi Bonassi
 
+![Luigi Bonassi](luigi-bonassi.jpg)
+### Title
+A Compilation Odyssey
+
 ### Abstract
 Compiling one formalism into another is a widely used technique in AI, employed for both practical and theoretical purposes. In this talk, I will show how this approach can be effectively applied in AI planning to handle temporally extended goals and constraints. In particular, I will focus on compilation-based approaches for handling PDDL3 constraints and PPLTL goals, highlight the key challenges posed by these problems, and discuss the properties that make such compilations effective in the planning settings considered. I will also share my experience developing such compilations throughout my PhD, including some of the key lessons and insights gained along the way.
 
