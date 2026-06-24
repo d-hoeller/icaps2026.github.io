@@ -222,7 +222,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
 <div style="text-align: center; margin: 20px 0;">
   <img src="luigi-bonassi.jpg"
        alt="Luigi Bonassi"
-       style="max-width: 220px; width: 100%; height: auto; border-radius: 50%;">
+       style="max-width: 70px; width: 100%; height: auto; border-radius: 50%;">
 </div>
 ### Title
 A Compilation Odyssey
