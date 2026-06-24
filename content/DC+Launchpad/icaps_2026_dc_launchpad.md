@@ -220,7 +220,7 @@ Together, both the DC and the LaunchPad Workshop aim to:
 ## Invited talk by Micheli Andrea
 
 <div style="text-align: center;">
-  <img src="andrea_micheli.jpg"
+  <img src="/img/dc-launchpad/andrea_micheli.jpg"
        alt="Micheli Andrea"
        width="220">
 </div>
@@ -250,7 +250,7 @@ He has authored more than 30 papers in the Formal Methods and Artificial Intelli
 ## Invited talk by Luigi Bonassi
 
 <div style="text-align: center;">
-  <img src="luigi-bonassi.jpg"
+  <img src="/img/dc-launchpad/luigi-bonassi.jpg"
        alt="Luigi Bonassi"
        width="220">
 </div>
