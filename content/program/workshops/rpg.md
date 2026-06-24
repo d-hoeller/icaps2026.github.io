@@ -36,9 +36,9 @@ The reference timezone for all deadlines is **UTC-12**. That is, as long as ther
     * **15:40 - 16:00** | *Dynamic Scene Reconstruction for Prototyping Planning-Based Game Environments* — Albaraa Othman, Emanuele De Pellegrin, and Ron Petrick
 * **16:00 - 16:20** | Coffee Break
 * **16:20 - 17:10** | **Paper Presentations** *(Theme: Applications of Games for Planning)* - *now with correct order!*
-    * **16:20 - 16:40** | *Baba Is Axioms: A Challenging Benchmark for Classical Planning with Axioms* — Ronny Rochwerg, Allix Fletcher, Samantha Papais, Cynthia Wang, Connor Little, Ting Hu, and Christian Muise
-    * **16:40 - 16:55**| *A Good Snowman Is (also Numerically) Hard to Plan* — Matteo Paparo, Francesco Doria, Marco Maratea, and Mauro Vallati
-    * **16:55 - 17:10** | *Active Information Gathering in Social Deduction Game* — Haochong Luo, Chenyuan Zhang, and Guang Hu
+    * **16:20 - 16:35** | *Baba Is Axioms: A Challenging Benchmark for Classical Planning with Axioms* — Ronny Rochwerg, Allix Fletcher, Samantha Papais, Cynthia Wang, Connor Little, Ting Hu, and Christian Muise
+    * **16:35 - 16:50**| *A Good Snowman Is (also Numerically) Hard to Plan* — Matteo Paparo, Francesco Doria, Marco Maratea, and Mauro Vallati
+    * **16:50 - 17:10** | *Active Information Gathering in Social Deduction Game* — Haochong Luo, Chenyuan Zhang, and Guang Hu
 * **17:10 - 17:55** | **Invited Talk:** Jeff Orkin — *Planning in Games in the Age of LLMs*
 * **17:55 - 18:00** | Closing
 
