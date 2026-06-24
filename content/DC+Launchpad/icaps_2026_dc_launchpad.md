@@ -219,11 +219,13 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 
 ## Invited talk by Luigi Bonassi
-<div style="text-align: center; margin: 20px 0;">
-<img src="luigi-bonassi.jpg"
-     alt="Luigi Bonassi"
-     width="220">
- </div>    
+
+<div style="text-align: center;">
+  <img src="luigi-bonassi.jpg"
+       alt="Luigi Bonassi"
+       width="220">
+</div>
+
 ### Title
 A Compilation Odyssey
 
