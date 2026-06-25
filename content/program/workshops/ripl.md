@@ -56,7 +56,7 @@ Reliability of data-driven artifacts, in particular ML classifier robustness and
 - Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance** [(bibtex)](/files/workshops/ripl/HaoRIPL26.bib)
 - Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning** ([pdf](/files/workshops/ripl/LequenRIPL26.pdf), [bibtex](/files/workshops/ripl/LequenRIPL26.bib)) (ECAI 2024 paper)
 - Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding** ([pdf](/files/workshops/ripl/MusaviRIPL26.pdf), [bibtex](/files/workshops/ripl/MusaviRIPL26.bib))
-- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning** [(bibtex)](/files/workshops/ripl/PhungRIPL26.bib)
+- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning** ([pdf](/files/workshops/ripl/PhungRIPL26.pdf), [bibtex](/files/workshops/ripl/PhungRIPL26.bib))
 
 **15:30 - 15:50 Coffee Break**
 
