@@ -71,7 +71,7 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 * 15.30 **Coffee Break** <br>
 * 15.50 Paolo Forte, Uwe Köckemann and Alessandro Saffiotti, EuroCore: Enabling Reproducible Planning and Robotics Workflows on the European AI-on-Demand Platform<br>
 * 16.05 Simon Ferrier, Alessandro Renzaglia and Olivier Simonin, AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan<br>
-* 16.20 Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda, Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda<br>
+* 16.20 Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda, Fixed-Haven Reservation for Online Multi-Agent Pickup and Delivery in Dense Warehouses<br>
 * 16.35 Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef, Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming<br>
 * 16.50 Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini, Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams<br>
 * 17.05 **Closing remarks** <br>
