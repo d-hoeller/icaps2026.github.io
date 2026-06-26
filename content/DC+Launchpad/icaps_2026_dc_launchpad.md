@@ -250,7 +250,7 @@ He has authored more than 30 papers in the Formal Methods and Artificial Intelli
 ## Invited talk by David Speck
 
 <div style="text-align: center;">
-  <img src="david_speck.jpg"
+  <img src="/img/dc-launchpad/david_speck.jpg"
        alt="Micheli Andrea"
        width="220">
 </div>
