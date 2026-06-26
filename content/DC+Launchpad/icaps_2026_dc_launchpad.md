@@ -247,6 +247,29 @@ He currently works on temporal planning and is the lead developer of [pySMT](htt
 He has authored more than 30 papers in the Formal Methods and Artificial Intelligence fields and is the principal investigator of an [ERC Starting Grant](https://pso.fbk.eu/articles/step-rl) investigating novel ways to combine temporal planning and reinforcement learning.
 
 
+## Invited talk by David Speck
+
+<div style="text-align: center;">
+  <img src="david_speck.jpg"
+       alt="Micheli Andrea"
+       width="220">
+</div>
+
+
+### Title
+
+Why and How to Become a Researcher in the Age of AI
+
+
+### Abstract
+
+In an era where large language models are described as a "team of PhD-level experts in your pocket" (Sam Altman), a natural question is whether becoming a researcher is still worth it. In this talk, I highlight the benefits and downsides of pursuing a research career, with a particular focus on the PhD as a common entry point into academia. I will explain why planning and scheduling is a particularly interesting field, share a behind-the-scenes story of one of my ICAPS papers, and provide practical advice on how to start a PhD. Overall, this talk aims to give you enough context to decide for yourself whether you want to pursue a research career in academia.
+
+### Speaker Bio
+
+David Speck is a Postdoctoral Researcher in the Artificial Intelligence Group at the University of Basel, Switzerland. His research focuses on automated planning, symbolic reasoning, and explainable AI. In particular, he develops methods that enable planning systems to generate, analyze, and explain multiple alternatives rather than a single solution, providing richer support for decision-making.
+He has conducted research in Germany (BSc, MSc, PhD), Sweden (PostDoc), and Switzerland (PostDoc). His work has also led to multiple patents on combining symbolic AI with machine learning. His research has been recognized with several international awards, including the ICAPS Best Dissertation Award and the ICAPS Best Paper Award.
+
 ## Invited talk by Luigi Bonassi
 
 <div style="text-align: center;">
