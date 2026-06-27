@@ -61,7 +61,28 @@ Authors submitting papers rejected from other conferences, please ensure you do 
 
 All **submissions must be anonymized** and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
 
-## Schedule
+# Invited Talk
+
+## LLMs don't even need to plan — they can build planners
+
+<img src="/img/workshops/lm4plan/jendrik.jpg"
+     alt="Jendrik Seipp"
+     width="220"
+     style="float: right; margin: 0.2rem 0 1rem 1.5rem; border-radius: 8px;">
+
+**[Jendrik Seipp](https://mrlab.ai/jendrik-seipp/), Linköping University**
+
+### Abstract
+
+For years, LLMs couldn't reliably solve even the smallest planning tasks. That has changed: we recently showed that the latest frontier models now beat even the strongest classical planners on several benchmark domains. Using an LLM as the planner is still rarely the best choice. Having it build planner components instead is faster, cheaper, and far less energy-hungry. I show how to do this while keeping the guarantees that make classical planning worth using, like optimality and bounded runtime. And it doesn't stop at planners. Agents can now carry out research largely on their own, and I'll close with some thoughts on what that means for how we work as researchers.
+
+### Speaker Bio
+
+Jendrik Seipp is a Senior Associate Professor in Artificial Intelligence at Linköping University, Sweden, where he directs the Machine Reasoning Lab within the AIICS division. His research focuses on AI planning and its connections to machine learning. He earned his MSc in computer science from the University of Freiburg, Germany (2012) and his PhD from the University of Basel, Switzerland (2018), where he then worked as a postdoctoral researcher until 2020. He joined Linköping University as an assistant professor in 2021 and was promoted to senior associate professor in 2024. His work is supported by WASP, a Swedish Research Council Starting Grant, a Wallenberg Academy Fellowship, and an SSF Future Research Leaders grant.
+
+<div style="clear: both;"></div>
+
+# Schedule
 
 <style>
 .lm4plan-schedule {
