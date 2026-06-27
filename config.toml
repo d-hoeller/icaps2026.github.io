@@ -5,7 +5,7 @@ theme = 'mainroad'
 
 [languages.en]
   contentDir = 'content'
-  languageCode = 'en_US'
+  locale = 'en_US'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
