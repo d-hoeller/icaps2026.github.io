@@ -49,18 +49,18 @@ A remote [Zoom session](https://monash.zoom.us/j/84642033869?pwd=upGNuvgSm0anYgM
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 14:30–14:34 | Opening remarks                                                                                                                                                                               |
 | 14:34–15:24 | [**Invited talk: Implicitly Coordinating Agents**](#invited-talk)<br>[Thomas Bolander](http://www2.compute.dtu.dk/~tobo/)                                                                       |
-| 15:24–15:36 | **SMT-Based Goal and Plan Recognition**<br>Kin Max Piamolini Gusmão, Joan Espasa, Miquel Ramirez, Mustafa Faisal Zaki Abdelwahed, Nir Lipovetzky, Felipe Meneguzzi                            |
-| 15:36–15:48 | **Divergence Identities for Probabilistic Goal Recognition**<br>Giacomo Rosa, Nir Lipovetzky, Jean Honorio, Sebastian Sardina                                                                 |
-| 15:48–16:00 | **Generation of Suspicious Behaviour**<br>Peta Masters, Daniel Gallagher, Gal A Kaminka, Mor Vered                                                                                            |
+| 15:24–15:36 | [**SMT-Based Goal and Plan Recognition**](https://drive.google.com/file/d/1EwjY2q9Cddit5OzjiMbcaRFg5XWJf7ko/view?usp=sharing)<br>Kin Max Piamolini Gusmão, Joan Espasa, Miquel Ramirez, Mustafa Faisal Zaki Abdelwahed, Nir Lipovetzky, Felipe Meneguzzi                            |
+| 15:36–15:48 | [**Divergence Identities for Probabilistic Goal Recognition**](https://drive.google.com/file/d/12hFlnb_1WqZrk486nYSCKoEh3GA0V1bH/view?usp=sharing)<br>Giacomo Rosa, Nir Lipovetzky, Jean Honorio, Sebastian Sardina                                                                 |
+| 15:48–16:00 | [**Generation of Suspicious Behaviour**](https://drive.google.com/file/d/1bq_BxiRbCTsS37WFVFStwKLTy6Zio1Ox/view?usp=sharing)<br>Peta Masters, Daniel Gallagher, Gal A Kaminka, Mor Vered                                                                                            |
 | 16:00–16:20 | Official tea break                                                                                                                                                                            |
 | 16:20–16:35 | IPC competition session                                                                                                                                                                       |
-| 16:35–16:47 | **Concurrent Action Models for DEL**<br>Ludovico Deponte                                                                                                                                      |
-| 16:47–16:59 | **RP-M*P: Extending Epistemic Planning with Dynamic Desires and Intentions**<br>Rebecca Leah De Venezia, Christian Muise                                                                      |
-| 16:59–17:11 | **A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**<br>Haniel Ulises Vasquez Morales                                                              |
-| 17:11–17:23 | **Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions**<br>Halim Djerroud                                                                          |
-| 17:23–17:35 | **Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces**<br>Stella Condrò, Giuseppe De Giacomo, Gianmarco Parretti, Elisa Santini |
-| 17:35–17:47 | **Synthesis Foundations for Online LTLf Goal Management**<br>Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi                                                          |
-| 17:47–17:59 | **Hardness of MAPF under Destination Uncertainty**<br>P. Maurice Dekker                                                                                                                       |
+| 16:35–16:47 | [**Concurrent Action Models for DEL**](https://drive.google.com/file/d/1mgUQ_Ys9zanNE1-3j_PbdYMPP_-FSGaS/view?usp=sharing)<br>Ludovico Deponte                                                                                                                                      |
+| 16:47–16:59 | [**RP-M*P: Towards Extending Epistemic Planning with Custom Modalities**](https://drive.google.com/file/d/1YwQ0FMXS_UIS68bRv4cVoh1qTKppGYPJ/view?usp=sharing)<br>Rebecca Leah De Venezia, Christian Muise                                                                      |
+| 16:59–17:11 | [**A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**](https://drive.google.com/file/d/1xfxybKKMNYq8urcnuMRsz_3m2pF3i8Jl/view?usp=sharing)<br>Haniel Ulises Vasquez Morales                                                              |
+| 17:11–17:23 | [**Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions**](https://drive.google.com/file/d/1EJgqpLeLUAbWOHQ_yn2ANgsa6CXSbBtn/view?usp=sharing)<br>Halim Djerroud                                                                          |
+| 17:23–17:35 | [**Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces**](https://drive.google.com/file/d/1KGsk2QSIAyi8lF3gDbNBXZ6KIbwQfjUS/view?usp=sharing)<br>Stella Condrò, Giuseppe De Giacomo, Gianmarco Parretti, Elisa Santini |
+| 17:35–17:47 | [**Synthesis Foundations for Online LTLf Goal Management**](https://drive.google.com/file/d/1V6X8S7Non6vo7oFNCVytHZPIXJgizM2H/view?usp=sharing)<br>Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi                                                          |
+| 17:47–17:59 | [**Hardness of MAPF under Destination Uncertainty**](https://drive.google.com/file/d/1oMkWj-gKYlhflXeMXBDmeBLfPSpQ8sS-/view?usp=sharing)<br>P. Maurice Dekker                                                                                                                       |
 | 17:59–18:00 | Closing remarks                                                                                                                                                                               |
 
 </div>
@@ -133,34 +133,34 @@ Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI fo
 
 ## Accepted Papers
 
-- **RP-M*P: Extending Epistemic Planning with Dynamic Desires and Intentions**  
+- **[RP-M*P: Towards Extending Epistemic Planning with Custom Modalities](https://drive.google.com/file/d/1YwQ0FMXS_UIS68bRv4cVoh1qTKppGYPJ/view?usp=sharing)**  
   Rebecca Leah De Venezia, Christian Muise
 
-- **Hardness of MAPF under Destination Uncertainty**  
+- **[Hardness of MAPF under Destination Uncertainty](https://drive.google.com/file/d/1oMkWj-gKYlhflXeMXBDmeBLfPSpQ8sS-/view?usp=sharing)**  
   P. Maurice Dekker
 
-- **SMT-Based Goal and Plan Recognition**  
+- **[SMT-Based Goal and Plan Recognition](https://drive.google.com/file/d/1EwjY2q9Cddit5OzjiMbcaRFg5XWJf7ko/view?usp=sharing)**  
   Kin Max Piamolini Gusmão, Joan Espasa, Miquel Ramirez, Mustafa Faisal Zaki Abdelwahed, Nir Lipovetzky, Felipe Meneguzzi
 
-- **Divergence Identities for Probabilistic Goal Recognition**  
+- **[Divergence Identities for Probabilistic Goal Recognition](https://drive.google.com/file/d/12hFlnb_1WqZrk486nYSCKoEh3GA0V1bH/view?usp=sharing)**  
   Giacomo Rosa, Nir Lipovetzky, Jean Honorio, Sebastian Sardina
 
-- **Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions**  
+- **[Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions](https://drive.google.com/file/d/1EJgqpLeLUAbWOHQ_yn2ANgsa6CXSbBtn/view?usp=sharing)**  
   Halim Djerroud
 
-- **Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces**  
+- **[Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces](https://drive.google.com/file/d/1KGsk2QSIAyi8lF3gDbNBXZ6KIbwQfjUS/view?usp=sharing)**  
   Stella Condrò, Giuseppe De Giacomo, Gianmarco Parretti, Elisa Santini
 
-- **Synthesis Foundations for Online LTLf Goal Management**  
+- **[Synthesis Foundations for Online LTLf Goal Management](https://drive.google.com/file/d/1V6X8S7Non6vo7oFNCVytHZPIXJgizM2H/view?usp=sharing)**  
   Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi
 
-- **A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**  
+- **[A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics](https://drive.google.com/file/d/1xfxybKKMNYq8urcnuMRsz_3m2pF3i8Jl/view?usp=sharing)**  
   Haniel Ulises Vasquez Morales
 
-- **Concurrent Action Models for DEL**  
+- **[Concurrent Action Models for DEL](https://drive.google.com/file/d/1mgUQ_Ys9zanNE1-3j_PbdYMPP_-FSGaS/view?usp=sharing)**  
   Ludovico Deponte
 
-- **Generation of Suspicious Behaviour**  
+- **[Generation of Suspicious Behaviour](https://drive.google.com/file/d/1bq_BxiRbCTsS37WFVFStwKLTy6Zio1Ox/view?usp=sharing)**  
   Peta Masters, Daniel Gallagher, Gal A Kaminka, Mor Vered
 
 
