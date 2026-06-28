@@ -61,7 +61,28 @@ Authors submitting papers rejected from other conferences, please ensure you do 
 
 All **submissions must be anonymized** and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
 
-## Schedule
+# Invited Talk
+
+## LLMs don't even need to plan — they can build planners
+
+<img src="/img/workshops/lm4plan/jendrik.jpg"
+     alt="Jendrik Seipp"
+     width="220"
+     style="float: right; margin: 0.2rem 0 1rem 1.5rem; border-radius: 8px;">
+
+**[Jendrik Seipp](https://mrlab.ai/jendrik-seipp/), Linköping University**
+
+### Abstract
+
+For years, LLMs couldn't reliably solve even the smallest planning tasks. That has changed: we recently showed that the latest frontier models now beat even the strongest classical planners on several benchmark domains. Using an LLM as the planner is still rarely the best choice. Having it build planner components instead is faster, cheaper, and far less energy-hungry. I show how to do this while keeping the guarantees that make classical planning worth using, like optimality and bounded runtime. And it doesn't stop at planners. Agents can now carry out research largely on their own, and I'll close with some thoughts on what that means for how we work as researchers.
+
+### Speaker Bio
+
+Jendrik Seipp is a Senior Associate Professor in Artificial Intelligence at Linköping University, Sweden, where he directs the Machine Reasoning Lab within the AIICS division. His research focuses on AI planning and its connections to machine learning. He earned his MSc in computer science from the University of Freiburg, Germany (2012) and his PhD from the University of Basel, Switzerland (2018), where he then worked as a postdoctoral researcher until 2020. He joined Linköping University as an assistant professor in 2021 and was promoted to senior associate professor in 2024. His work is supported by WASP, a Swedish Research Council Starting Grant, a Wallenberg Academy Fellowship, and an SSF Future Research Leaders grant.
+
+<div style="clear: both;"></div>
+
+# Schedule
 
 <style>
 .lm4plan-schedule {
@@ -165,11 +186,11 @@ All **submissions must be anonymized** and may not contain any identifying infor
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 9:05 | Semantic Partial Grounding via LLMs | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
-| 9:20 | Benchmarking LLM Pipelines for Natural Language to Automated Planning Models | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
-| 9:35 | Operationally Grounded Evaluation and Repair for NL-to-PDDL Problem Generation | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
-| 9:50 | Towards LLM-Driven Synthesis of Narrative Planning Models | Allix Fletcher, Christian Muise | 15 |
-| 10:05 | A Natural Language Copilot for Interactive Plan Space Exploration | Paul Horn, Daniel Gnad | 15 |
+| 9:05 | [Semantic Partial Grounding via LLMs](/files/workshops/lm4plan/1_Semantic_Partial_Grounding_v.pdf) | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
+| 9:20 | [Benchmarking LLM Pipelines for Natural Language to Automated Planning Models](/files/workshops/lm4plan/6_Benchmarking_LLM_Pipelines_f.pdf) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
+| 9:35 | [Grounded Evaluation and Repair for NL-to-PDDL Problem Generation](/files/workshops/lm4plan/20_Grounded_Evaluation_and_Rep.pdf) | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
+| 9:50 | [Towards LLM-Driven Synthesis of Narrative Planning Models](/files/workshops/lm4plan/17_Towards_LLM_Driven_Synthesi-1.pdf) | Allix Fletcher, Christian Muise | 15 |
+| 10:05 | [A Natural Language Copilot for Interactive Plan Space Exploration](/files/workshops/lm4plan/19_A_Natural_Language_Copilot_-1.pdf) | Paul Horn, Daniel Gnad | 15 |
 
 <div class="lm4plan-break">Coffee break - 10:30-10:50</div>
 
@@ -177,12 +198,12 @@ All **submissions must be anonymized** and may not contain any identifying infor
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 10:50 | FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation | Vishal Pallagani, Nitin Gupta, John A. Aydin, Biplav Srivastava | 15 |
-| 11:05 | ALPSBench: Can Large Language Models Reason Their Way Through Planning Formalisms? | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
-| 11:20 | On the Ability of Transformers to Verify Plans | Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiebaux, Michael Hahn | 15 |
-| 11:35 | Toward a General Framework for Evaluating Per-Domain Generalization Using LLMs, Theorem Provers, and Statistical Model Checking | Nicola J. Müller, Naya Rudolph, Ayal Taitler, Timo P. Gros | 15 |
-| 11:50 | Integrating the Unified Planning Framework via MCP with Large Language Models for Reliable Automated Planning | João Areias Saraiva, Thomas Kirste | 15 |
-| 12:05 | Learning HTNs from Visual Demonstration with Vision-Language Models: Preliminary Results | Ngoc La, Karthik Mahadevan, Pulkit Verma, Julie Shah | 15 |
+| 10:50 | [FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation](/files/workshops/lm4plan/4_FABLE_A_Novel_Data_Flow_Anal.pdf) | Vishal Pallagani, Nitin Gupta, John A. Aydin, Biplav Srivastava | 15 |
+| 11:05 | [ALPSBench: Can Large Language Models Reason Their Way Through Planning Formalisms?](/files/workshops/lm4plan/5_ALPSBench_Can_Large_Language.pdf) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
+| 11:20 | [On the Ability of Transformers to Verify Plans](/files/workshops/lm4plan/10_On_the_Ability_of_Transform.pdf) | Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiebaux, Michael Hahn | 15 |
+| 11:35 | [Toward a General Framework for Evaluating Per-Domain Generalization Using LLMs, Theorem Provers, and Statistical Model Checking](/files/workshops/lm4plan/12_Toward_a_General_Framework_-1.pdf) | Nicola J. Müller, Naya Rudolph, Ayal Taitler, Timo P. Gros | 15 |
+| 11:50 | [Integrating the Unified Planning Framework via MCP with Large Language Models for Reliable Automated Planning](/files/workshops/lm4plan/8_Integrating_the_Unified_Plan.pdf) | João Areias Saraiva, Thomas Kirste | 15 |
+| 12:05 | [Learning HTNs from Visual Demonstration with Vision-Language Models: Preliminary Results](/files/workshops/lm4plan/7_Learning_HTNs_from_Visual_De.pdf) | Ngoc La, Karthik Mahadevan, Pulkit Verma, Julie Shah | 15 |
 
 <div class="lm4plan-break">Lunch break - 12:30-14:00</div>
 
@@ -192,11 +213,11 @@ All **submissions must be anonymized** and may not contain any identifying infor
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 14:00 | LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning | Elliot Gestrin, Jendrik Seipp | 15 |
-| 14:15 | Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics | Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka | 15 |
-| 14:30 | Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents | Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz | 15 |
-| 14:45 | Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
-| 15:00 | The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
+| 14:00 | [LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning](/files/workshops/lm4plan/9_LLM_Evolved_Domain_Independe.pdf) | Elliot Gestrin, Jendrik Seipp | 15 |
+| 14:15 | [Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics](/files/workshops/lm4plan/16_Personalized_Medication_Pla.pdf) | Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka | 15 |
+| 14:30 | [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](/files/workshops/lm4plan/11_Learning_and_Reusing_Policy.pdf) | Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz | 15 |
+| 14:45 | [Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents](/files/workshops/lm4plan/18_Think_Hierarchically_Act_Op.pdf) | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
+| 15:00 | [The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents](/files/workshops/lm4plan/14_The_Curious_Case_of_Plannin.pdf) | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
 
 <div class="lm4plan-break">Coffee break - 15:30-15:50</div>
 
@@ -244,7 +265,7 @@ All **submissions must be anonymized** and may not contain any identifying infor
   *Vikas Kumar, Jyotsana Khatri, Shirish Karande*
 - **A Natural Language Copilot for Interactive Plan Space Exploration**\
   *Paul Horn, Daniel Gnad*
-- **Operationally Grounded Evaluation and Repair for NL-to-PDDL Problem Generation**\
+- **Grounded Evaluation and Repair for NL-to-PDDL Problem Generation**\
   *Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos*
 
 # Organizing Committee

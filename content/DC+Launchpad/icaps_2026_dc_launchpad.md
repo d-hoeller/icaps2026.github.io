@@ -217,6 +217,76 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 ---
 
+## Invited talk by Micheli Andrea
+
+<div style="text-align: center;">
+  <img src="/img/dc-launchpad/andrea_micheli.jpg"
+       alt="Micheli Andrea"
+       width="220">
+</div>
+
+
+### Title
+
+The Problem We Almost Solved: Reading Partial Results, Rejections, and Tooling Effort as a Research Direction
+
+### Abstract
+
+In this talk, I present a retrospective view of how the idea behind the ERC STEP-RL project emerged. I will revisit several unsatisfactory moments in my career—an industrial contract whose deliverables did not fully meet expectations, infrastructure work that consumed a lot of time with little short-term visibility, and a rejected grant proposal—and discuss the lessons I learnt from each experience.
+
+These experiences ultimately shaped my career path and led me to the research questions I am pursuing today. The aim of this talk is to show early-career researchers how initial setbacks, infrastructure work, and outright rejections can provide valuable lessons and guide future research choices.
+
+### Speaker Bio
+
+[Andrea Micheli](https://andrea.micheli.website) is the head of the “Planning, Scheduling and Optimization” research unit at [Fondazione Bruno Kessler](https://pso.fbk.eu), Trento, Italy. His research focuses on the development and technology transfer of automated planning technologies.
+
+He obtained his PhD in Computer Science from the University of Trento in 2016. His thesis, *Planning and Scheduling in Temporally Uncertain Domains*, won several awards, including the EurAI Best Dissertation Award and an honorable mention for the ICAPS Best Dissertation Award.
+
+He currently works on temporal planning and is the lead developer of [pySMT](https://www.pysmt.org), an open-source project that provides a standard Python API for satisfiability modulo theory solvers. Andrea coordinated the [AIPlan4EU project](https://www.aiplan4eu-project.eu), which aimed to remove the access barriers to automated planning technology and bring it to the European AI On-Demand Platform.
+
+He has authored more than 30 papers in the Formal Methods and Artificial Intelligence fields and is the principal investigator of an [ERC Starting Grant](https://pso.fbk.eu/articles/step-rl) investigating novel ways to combine temporal planning and reinforcement learning.
+
+
+## Invited talk by David Speck
+
+<div style="text-align: center;">
+  <img src="/img/dc-launchpad/david_speck.jpg"
+       alt="Micheli Andrea"
+       width="220">
+</div>
+
+
+### Title
+
+Why and How to Become a Researcher in the Age of AI
+
+
+### Abstract
+
+In an era where large language models are described as a "team of PhD-level experts in your pocket" (Sam Altman), a natural question is whether becoming a researcher is still worth it. In this talk, I highlight the benefits and downsides of pursuing a research career, with a particular focus on the PhD as a common entry point into academia. I will explain why planning and scheduling is a particularly interesting field, share a behind-the-scenes story of one of my ICAPS papers, and provide practical advice on how to start a PhD. Overall, this talk aims to give you enough context to decide for yourself whether you want to pursue a research career in academia.
+
+### Speaker Bio
+
+David Speck is a Postdoctoral Researcher in the Artificial Intelligence Group at the University of Basel, Switzerland. His research focuses on automated planning, symbolic reasoning, and explainable AI. In particular, he develops methods that enable planning systems to generate, analyze, and explain multiple alternatives rather than a single solution, providing richer support for decision-making.
+He has conducted research in Germany (BSc, MSc, PhD), Sweden (PostDoc), and Switzerland (PostDoc). His work has also led to multiple patents on combining symbolic AI with machine learning. His research has been recognized with several international awards, including the ICAPS Best Dissertation Award and the ICAPS Best Paper Award.
+
+## Invited talk by Luigi Bonassi
+
+<div style="text-align: center;">
+  <img src="/img/dc-launchpad/luigi-bonassi.jpg"
+       alt="Luigi Bonassi"
+       width="220">
+</div>
+
+### Title
+A Compilation Odyssey
+
+### Abstract
+Compiling one formalism into another is a widely used technique in AI, employed for both practical and theoretical purposes. In this talk, I will show how this approach can be effectively applied in AI planning to handle temporally extended goals and constraints. In particular, I will focus on compilation-based approaches for handling PDDL3 constraints and PPLTL goals, highlight the key challenges posed by these problems, and discuss the properties that make such compilations effective in the planning settings considered. I will also share my experience developing such compilations throughout my PhD, including some of the key lessons and insights gained along the way.
+
+### Speaker Bio
+Luigi Bonassi is a Postdoctoral Researcher in AI for Robot Decision-Making at the Oxford Robotics Institute (ORI). His doctoral research focused on Automated Planning, a field of AI that addresses the problem of deciding what to do in order to satisfy a set of goals. Specifically, he developed effective approaches for handling non-Markovian specifications on how goals are achieved. Luigi earned a Ph.D. in Information Engineering from the University of Brescia, where he also completed his Bachelor's and Master's degrees in Computer Science and Engineering.
+
 ## Who Should Attend?
 
 ### Doctoral Consortium (DC)
@@ -327,7 +397,7 @@ The LaunchPad Workshop will be a **full-day, in-person** event co-located with t
 - Open discussion with panelists.  
 - Joint activities with the Doctoral Consortium, such as attending selected DC presentations, a joint poster session, and informal discussions.  
 - Mentoring interactions, where each LaunchPad participant is matched with a mentor.  
-- Social events, such as a joint DC & LaunchPad dinner, to encourage informal networking.
+- Social events, such as a joint DC & LaunchPad dinner paid by ICAPS, to encourage informal networking.
 
 ### Application Procedure for LaunchPad
 
