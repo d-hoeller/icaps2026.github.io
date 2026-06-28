@@ -179,9 +179,9 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 |------|-------|---------|
 | 14:15 |A Comparison of Unsolvability Certificates in Planning and Model Checking|Malte Helmert and Tanja Schindler|
 | 14:30 |Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts|João Felipe, Álvaro Torralba and Gregor Behnke|
-| 14:45 |[Lifted Planning as SMT](/files/workshops/hsdip/CASPER_2026_paper_7.pdf)|Miquel Bofill, Cristina Borralleras and Josu Oca|
-| 15:00 |[An Automata-Based Constraint Programming Framework for Optimal Classical Planning (Extended Abstract)](/files/workshops/hsdip/CASPER_2026_paper_2.pdf)|Damien Van Meerbeeck, Arnaud Lequen, Gilles Pesant and Jendrik Seipp|
-| 15:15 |[Towards Qualitative Constraint-Based HTN Planning: A Research Agenda](/files/workshops/hsdip/CASPER_2026_paper_8.pdf)|Tobias Schwartz, Christopher Walther and Diedrich Wolter|
+| 14:45 |[Lifted Planning as SMT](/files/workshops/casper/CASPER_2026_paper_7.pdf)|Miquel Bofill, Cristina Borralleras and Josu Oca|
+| 15:00 |[An Automata-Based Constraint Programming Framework for Optimal Classical Planning (Extended Abstract)](/files/workshops/casper/CASPER_2026_paper_2.pdf)|Damien Van Meerbeeck, Arnaud Lequen, Gilles Pesant and Jendrik Seipp|
+| 15:15 |[Towards Qualitative Constraint-Based HTN Planning: A Research Agenda](/files/workshops/casper/CASPER_2026_paper_8.pdf)|Tobias Schwartz, Christopher Walther and Diedrich Wolter|
 
 <div class="hsdip-break">Coffee break - 15:30-15:50</div>
 
@@ -189,12 +189,12 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 
 | Time | Paper | Authors | 
 |------|-------|---------|
-| 15:50 |[Leveraging CP for Numeric-to-Classical Planning Compilations](/files/workshops/hsdip/CASPER_2026_paper_9.pdf)|Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret|
-| 16:05 |[Planning and Scheduling, What’s the Difference Anyway?](/files/workshops/hsdip/CASPER_2026_paper_11.pdf)|Arthur Bit-Monnot|
-| 16:20 |[An Insertion-Based Linked List Variable and Regular Constraint for Classical Planning with Constraint Programming](/files/workshops/hsdip/CASPER_2026_paper_10.pdf)|Damien Van Meerbeeck|
-| 16:35 |[CP-WSP: A Declarative CP-SAT Framework for Configurable Multi-Constraint Workforce Scheduling](/files/workshops/hsdip/CASPER_2026_paper_3.pdf)|Vipul Patel, Anirudh Deodhar and Dagnachew Birru|
-| 16:50 |[Guiding CP Search for Recurring Vehicle Routing Problems with Learned Heuristics](/files/workshops/hsdip/CASPER_2026_paper_4.pdf)|Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier|
-| 17:05 |[Learning Heuristics to Solve Routing Problems Increasingly Faster](/files/workshops/hsdip/CASPER_2026_paper_5.pdf)|Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier|
+| 15:50 |[Leveraging CP for Numeric-to-Classical Planning Compilations](/files/workshops/casper/CASPER_2026_paper_9.pdf)|Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret|
+| 16:05 |[Planning and Scheduling, What’s the Difference Anyway?](/files/workshops/casper/CASPER_2026_paper_11.pdf)|Arthur Bit-Monnot|
+| 16:20 |[An Insertion-Based Linked List Variable and Regular Constraint for Classical Planning with Constraint Programming](/files/workshops/casper/CASPER_2026_paper_10.pdf)|Damien Van Meerbeeck|
+| 16:35 |[CP-WSP: A Declarative CP-SAT Framework for Configurable Multi-Constraint Workforce Scheduling](/files/workshops/casper/CASPER_2026_paper_3.pdf)|Vipul Patel, Anirudh Deodhar and Dagnachew Birru|
+| 16:50 |[Guiding CP Search for Recurring Vehicle Routing Problems with Learned Heuristics](/files/workshops/casper/CASPER_2026_paper_4.pdf)|Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier|
+| 17:05 |[Learning Heuristics to Solve Routing Problems Increasingly Faster](/files/workshops/casper/CASPER_2026_paper_5.pdf)|Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier|
 
 
 <p class="hsdip-note">17:20 — Closing remarks</p>
