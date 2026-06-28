@@ -20,7 +20,7 @@ Important dates
  - Paper submission:  ~~April 27th~~ ~~May 5th, 2026~~ May 12th, 2026
  - Notification:    	May 25th, 2026
  - Camera-ready:    	June 1st, 2026
- - Workshop: June 28th or 29th, 2026
+ - Workshop: June 29th, 2026
 
 ## Call for contributions
 
