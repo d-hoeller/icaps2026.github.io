@@ -40,7 +40,7 @@ Reliability of data-driven artifacts, in particular ML classifier robustness and
 
 
 **10:00 - 10:30** Session 1: Multi-Agent Coordination under Uncertainty
-- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments** [(bibtex)](/files/workshops/ripl/FernandezRIPL26.bib)
+- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments** ([pdf](/files/workshops/ripl/FernandezRIPL26.pdf), [bibtex](/files/workshops/ripl/FernandezRIPL26.bib))
 
 **10:30 - 10:50 Coffee Break**
 
