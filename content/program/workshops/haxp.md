@@ -45,8 +45,6 @@ November 10, 2025 -->
 }
 </style>
 
-A remote [Zoom session](https://monash.zoom.us/j/87459654870?pwd=S0BzhRKsWgaA83DxvAxc81Hf7giLG5.1&jst=2) is also available for those who cannot attend in person.
-
 <div class="program-table">
 
 | Time        | Session                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
