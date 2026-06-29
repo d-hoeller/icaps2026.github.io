@@ -24,7 +24,8 @@ Here is the list of the tutorials accepted to ICAPS 2026
 
   <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<p><strong>Ontology</strong></p>
+		<p><strong><a href=" https://ai4society.github.io/ICAPS26-planning-ontology-tutorial/website/index.html" target="_blank">Ontology</a></strong></p>
+ 		<!--<p><strong>Ontology</strong></p>-->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Planning Ontology</strong></p>
