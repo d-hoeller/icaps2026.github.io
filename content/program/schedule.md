@@ -1031,7 +1031,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 7B: MAPF</div>
-<div class="session-subheader">Breakout Room - Lansdowne — Chair: Nora Ayanian</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Jingjin Yu</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF</strong><br/>
