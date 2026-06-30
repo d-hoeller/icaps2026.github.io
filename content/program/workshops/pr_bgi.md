@@ -41,8 +41,6 @@ June 28, 2026
 }
 </style>
 
-A remote [Zoom session](https://monash.zoom.us/j/84642033869?pwd=upGNuvgSm0anYgM0MkQWZFR7ZFSPJL.1&jst=2) is also available for those who cannot attend in person.
-
 <div class="program-table">
 
 | Time        | Session                                                                                                                                                                                       |
